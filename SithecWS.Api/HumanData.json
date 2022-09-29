@@ -1,0 +1,92 @@
+[{
+        "Id": 1,
+        "Nombre": "Moises Mata",
+        "Sexo": "H",
+        "Altura": 1.74,
+        "Peso": 104
+    }, {
+        "Id": 2,
+        "Nombre": "Diana Laura Lugo",
+        "Sexo": "M",
+        "Altura": 1.56,
+        "Peso": 62
+    }, {
+        "Id": 3,
+        "Nombre": "Ibrahim Alexander Mata",
+        "Sexo": "H",
+        "Altura": 1.80,
+        "Peso": 76
+    }, {
+        "Id": 4,
+        "Nombre": "Mariham Alexandra Mata",
+        "Sexo": "M",
+        "Altura": 1.80,
+        "Peso": 66
+    }, {
+        "Id": 5,
+        "Nombre": "Carmen Martinez",
+        "Sexo": "M",
+        "Altura": 1.66,
+        "Peso": 60
+    }, {
+        "Id": 6,
+        "Nombre": "Georgina Morales",
+        "Sexo": "M",
+        "Altura": 1.50,
+        "Peso": 52
+    }, {
+        "Id": 7,
+        "Nombre": "Veronica Lugo",
+        "Sexo": "M",
+        "Altura": 1.58,
+        "Peso": 68
+    }, {
+        "Id": 8,
+        "Nombre": "Luisa Aguilar",
+        "Sexo": "M",
+        "Altura": 1.66,
+        "Peso": 60
+    }, {
+        "Id": 9,
+        "Nombre": "Jose Luis Aguilar",
+        "Sexo": "H",
+        "Altura": 1.56,
+        "Peso": 52
+    }, {
+        "Id": 10,
+        "Nombre": "Jose Fernando",
+        "Sexo": "H",
+        "Altura": 1.70,
+        "Peso": 96
+    }, {
+        "Id": 11,
+        "Nombre": "Luis Aguilar",
+        "Sexo": "H",
+        "Altura": 1.72,
+        "Peso": 102
+    }, {
+        "Id": 12,
+        "Nombre": "Brandoum Lugo",
+        "Sexo": "H",
+        "Altura": 1.70,
+        "Peso": 80
+    }, {
+        "Id": 13,
+        "Nombre": "Eduardo Mata",
+        "Sexo": "H",
+        "Altura": 1.75,
+        "Peso": 95
+    }, {
+        "Id": 14,
+        "Nombre": "Janeth Mata",
+        "Sexo": "M",
+        "Altura": 1.65,
+        "Peso": 70
+    }, {
+        "Id": 15,
+        "Nombre": "Jose Luis Mata",
+        "Sexo": "H",
+        "Altura": 1.76,
+        "Peso": 106
+    }
+]
